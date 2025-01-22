@@ -1,8 +1,8 @@
-## Opa, bem vindo ao meu perfil! Eu sou o Serpinha (Ou Kiatin)!
+## Opa, bem vindo ao meu perfil! Eu sou o Serpinha (Ou Kiatin)! 👋🏾
 
--  Hoje eu trabalho com Front e Back-end
+-  🔥 Hoje eu trabalho com Front e Back-end
 - ✏️ Estudando CSS, JavaScript e My SqL
--  Me contate por esse e-mail:  kiatokyosuke@gmail.com
+-  💬 Me contate por esse e-mail:  kiatokyosuke@gmail.com
 
 <div>
   <a href="https://github.com/Kiatin">
@@ -19,7 +19,6 @@
 ##
 
 <div> 
-  <a href="https://www.instagram.com/serpinha7?utm_source=qr&igsh=MTd2ZGltZGxqbXEwMw==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/683485082367164508" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/serpinha7?utm_source=qr&igsh=MTd2ZGltZGxqbXEwMw==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/kauã-serpa-330878347?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
